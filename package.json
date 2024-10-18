@@ -17,7 +17,7 @@
     "dependencies": {
         "@icon-park/compiler": "^1.0.7",
         "@types/react": "^16.14.4",
-        "vue": "^2.6.12",
+        "vue": "^3.0.0",
         "alias-for-vue3": "npm:vue@^3.2.6"
     },
     "devDependencies": {
